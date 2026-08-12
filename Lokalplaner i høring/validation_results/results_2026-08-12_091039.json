@@ -1,0 +1,2206 @@
+{
+  "Aabenraa": {
+    "url": "https://aabenraa.dk/borger/flytning-bolig-og-byggeri/kommuneplaner-og-lokalplaner/lokalplaner-i-hoering",
+    "label": "Høringer - Aabenraa Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://aabenraa.dk/borger/flytning-bolig-og-byggeri/kommuneplaner-og-lokalplaner/lokalplaner-i-hoering",
+    "response_time_s": 0.222,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://aabenraa.dk/borger/flytning-bolig-og-byggeri/kommuneplaner-og-lokalplaner/lokalplaner-i-hoering",
+        "response_time_s": 0.222,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Aalborg": {
+    "url": "https://www.aalborg.dk/hoeringer-og-afgoerelser/",
+    "label": "Høringer - Aalborg Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://www.aalborg.dk/hoeringer-og-afgoerelser/",
+    "response_time_s": 0.388,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://www.aalborg.dk/hoeringer-og-afgoerelser/",
+        "response_time_s": 0.388,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Aarhus": {
+    "url": "https://aarhus.viewer.dkplan.niras.dk/plan/3#/136865",
+    "label": "Høringer - Aarhus Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://aarhus.viewer.dkplan.niras.dk/plan/3#/136865",
+    "response_time_s": 0.166,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://aarhus.viewer.dkplan.niras.dk/plan/3#/136865",
+        "response_time_s": 0.166,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Albertslund": {
+    "url": "https://albertslund.dk/by-og-bolig/byudvikling/hoeringer-afgoerelser",
+    "label": "Høringer - Albertslund Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://albertslund.dk/by-og-bolig/byudvikling/hoeringer-afgoerelser",
+    "response_time_s": 0.303,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://albertslund.dk/by-og-bolig/byudvikling/hoeringer-afgoerelser",
+        "response_time_s": 0.303,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Allerød": {
+    "url": "https://alleroed.viewer.dkplan.niras.dk/plan/1#/1781",
+    "label": "Høringer - Allerød Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://alleroed.viewer.dkplan.niras.dk/plan/1#/1781",
+    "response_time_s": 0.134,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://alleroed.viewer.dkplan.niras.dk/plan/1#/1781",
+        "response_time_s": 0.134,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Assens": {
+    "url": "https://www.assens.dk/borger/bolig-og-byggeri/lokalplaner-for-hele-assens-kommune?term=lokalplan%20h%C3%B8ring",
+    "label": "Høringer - Assens Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "warning",
+    "is_new_defect": false,
+    "status_code": 403,
+    "final_url": "https://www.assens.dk/borger/bolig-og-byggeri/lokalplaner-for-hele-assens-kommune?term=lokalplan%20h%C3%B8ring",
+    "response_time_s": 1.214,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 403,
+        "final_url": "https://www.assens.dk/borger/bolig-og-byggeri/lokalplaner-for-hele-assens-kommune?term=lokalplan%20h%C3%B8ring",
+        "response_time_s": 1.214,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Ballerup": {
+    "url": "https://ballerup.dk/hoeringer-og-afgoerelser",
+    "label": "Høringer - Ballerup Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://ballerup.dk/hoeringer-og-afgoerelser",
+    "response_time_s": 0.369,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://ballerup.dk/hoeringer-og-afgoerelser",
+        "response_time_s": 0.369,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Billund": {
+    "url": "https://www.billund.dk/politik-og-demokrati/hoeringer/planer/",
+    "label": "Høringer - Billund Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://www.billund.dk/politik-og-demokrati/hoeringer/planer/",
+    "response_time_s": 0.221,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://www.billund.dk/politik-og-demokrati/hoeringer/planer/",
+        "response_time_s": 0.221,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Bornholm": {
+    "url": "https://bornholm.dk/politik-demokrati-og-indflydelse/hoeringer-og-offentliggoerelser",
+    "label": "Høringer - Bornholm Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://bornholm.dk/politik-demokrati-og-indflydelse/hoeringer-og-offentliggoerelser",
+    "response_time_s": 0.613,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://bornholm.dk/politik-demokrati-og-indflydelse/hoeringer-og-offentliggoerelser",
+        "response_time_s": 0.613,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Brøndby": {
+    "url": "https://brondby.viewer.dkplan.niras.dk/plan/51",
+    "label": "Høringer - Brøndby Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://brondby.viewer.dkplan.niras.dk/plan/51",
+    "response_time_s": 0.205,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://brondby.viewer.dkplan.niras.dk/plan/51",
+        "response_time_s": 0.205,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Brønderslev": {
+    "url": "https://bronderslev.viewer.dkplan.niras.dk/plan/53#/16151",
+    "label": "Høringer - Brønderslev Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://bronderslev.viewer.dkplan.niras.dk/plan/53#/16151",
+    "response_time_s": 0.201,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://bronderslev.viewer.dkplan.niras.dk/plan/53#/16151",
+        "response_time_s": 0.201,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Dragør": {
+    "url": "https://www.dragoer.dk/hoeringerafgoerelser",
+    "label": "Høringer - Dragør Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://www.dragoer.dk/hoeringerafgoerelser",
+    "response_time_s": 0.142,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://www.dragoer.dk/hoeringerafgoerelser",
+        "response_time_s": 0.142,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Egedal": {
+    "url": "https://www.egedalkommune.dk/demokrati-og-indflydelse/bliv-hoert-og-faa-indflydelse/hoeringer-og-afgoerelser?category=KOL&area=&type=HOER&sort=ASC",
+    "label": "Høringer - Egedal Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "warning",
+    "is_new_defect": false,
+    "status_code": 403,
+    "final_url": "https://www.egedalkommune.dk/demokrati-og-indflydelse/bliv-hoert-og-faa-indflydelse/hoeringer-og-afgoerelser?category=KOL&area=&type=HOER&sort=ASC",
+    "response_time_s": 1.1,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 403,
+        "final_url": "https://www.egedalkommune.dk/demokrati-og-indflydelse/bliv-hoert-og-faa-indflydelse/hoeringer-og-afgoerelser?category=KOL&area=&type=HOER&sort=ASC",
+        "response_time_s": 1.1,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Esbjerg": {
+    "url": "https://lokalplaner.esbjerg.dk/lokalplaner-i-hoering/",
+    "label": "Høringer - Esbjerg Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://lokalplaner.esbjerg.dk/lokalplaner-i-hoering/",
+    "response_time_s": 0.648,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://lokalplaner.esbjerg.dk/lokalplaner-i-hoering/",
+        "response_time_s": 0.648,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Faaborg-Midtfyn": {
+    "url": "https://www.fmk.dk/politik/hoeringer-og-afgoerelser/",
+    "label": "Høringer - Faaborg-Midtfyn Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://www.fmk.dk/politik/hoeringer-og-afgoerelser/",
+    "response_time_s": 0.519,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://www.fmk.dk/politik/hoeringer-og-afgoerelser/",
+        "response_time_s": 0.519,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Fanø": {
+    "url": "https://fanoe.dk/borger/planlaegning/lokalplaner",
+    "label": "Høringer - Fanø Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://fanoe.dk/borger/planlaegning/lokalplaner",
+    "response_time_s": 0.187,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://fanoe.dk/borger/planlaegning/lokalplaner",
+        "response_time_s": 0.187,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Favrskov": {
+    "url": "https://favrskov.dk/demokrati/hoeringer-og-afgoerelser",
+    "label": "Høringer - Favrskov Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://favrskov.dk/demokrati/hoeringer-og-afgoerelser",
+    "response_time_s": 0.139,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://favrskov.dk/demokrati/hoeringer-og-afgoerelser",
+        "response_time_s": 0.139,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Faxe": {
+    "url": "https://www.faxekommune.dk/da/hoeringer",
+    "label": "Høringer - Faxe Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "defect",
+    "is_new_defect": true,
+    "status_code": 500,
+    "final_url": "https://www.faxekommune.dk/da/hoeringer",
+    "response_time_s": 0.312,
+    "error": null,
+    "attempts_made": 4,
+    "attempt_log": [
+      {
+        "status_code": 500,
+        "final_url": "https://www.faxekommune.dk/da/hoeringer",
+        "response_time_s": 0.238,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      },
+      {
+        "status_code": 500,
+        "final_url": "https://www.faxekommune.dk/da/hoeringer",
+        "response_time_s": 0.251,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 2
+      },
+      {
+        "status_code": 500,
+        "final_url": "https://www.faxekommune.dk/da/hoeringer",
+        "response_time_s": 0.274,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 3
+      },
+      {
+        "status_code": 500,
+        "final_url": "https://www.faxekommune.dk/da/hoeringer",
+        "response_time_s": 0.312,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 4
+      }
+    ]
+  },
+  "Fredensborg": {
+    "url": "https://fredensborg.dk/politik-og-indflydelse/hoeringer-og-afgoerelser?category=Kommune-+og+lokakplan&area=&type=HOER&sort=ASC",
+    "label": "Høringer - Fredensborg Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "warning",
+    "is_new_defect": false,
+    "status_code": 403,
+    "final_url": "https://fredensborg.dk/politik-og-indflydelse/hoeringer-og-afgoerelser?category=Kommune-+og+lokakplan&area=&type=HOER&sort=ASC",
+    "response_time_s": 1.15,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 403,
+        "final_url": "https://fredensborg.dk/politik-og-indflydelse/hoeringer-og-afgoerelser?category=Kommune-+og+lokakplan&area=&type=HOER&sort=ASC",
+        "response_time_s": 1.15,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Fredericia": {
+    "url": "https://fredericia.viewer.dkplan.niras.dk/plan/10#/54906",
+    "label": "Høringer - Fredericia Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://fredericia.viewer.dkplan.niras.dk/plan/10#/54906",
+    "response_time_s": 0.228,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://fredericia.viewer.dkplan.niras.dk/plan/10#/54906",
+        "response_time_s": 0.228,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Frederiksberg": {
+    "url": "https://www.frederiksberg.dk/politik/faa-indflydelse/bliv-hoert",
+    "label": "Høringer - Frederiksberg Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://www.frederiksberg.dk/politik/faa-indflydelse/bliv-hoert",
+    "response_time_s": 0.338,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://www.frederiksberg.dk/politik/faa-indflydelse/bliv-hoert",
+        "response_time_s": 0.338,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Frederikshavn": {
+    "url": "https://frederikshavn.viewer.dkplan.niras.dk/plan/6#/1216",
+    "label": "Høringer - Frederikshavn Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://frederikshavn.viewer.dkplan.niras.dk/plan/6#/1216",
+    "response_time_s": 0.293,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://frederikshavn.viewer.dkplan.niras.dk/plan/6#/1216",
+        "response_time_s": 0.293,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Frederikssund": {
+    "url": "https://www.frederikssund.dk/Politik/inddragelse/hoeringer",
+    "label": "Høringer - Frederikssund Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://www.frederikssund.dk/Politik/inddragelse/hoeringer",
+    "response_time_s": 0.212,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://www.frederikssund.dk/Politik/inddragelse/hoeringer",
+        "response_time_s": 0.212,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Furesø": {
+    "url": "https://www.furesoe.dk/hoeringsportalen?category=PLAN&area=&sort=ASC&type=HOER",
+    "label": "Høringer - Furesø Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "warning",
+    "is_new_defect": false,
+    "status_code": 403,
+    "final_url": "https://www.furesoe.dk/hoeringsportalen?category=PLAN&area=&sort=ASC&type=HOER",
+    "response_time_s": 1.148,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 403,
+        "final_url": "https://www.furesoe.dk/hoeringsportalen?category=PLAN&area=&sort=ASC&type=HOER",
+        "response_time_s": 1.148,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Gentofte": {
+    "url": "https://gentofte.dk/det-lokale-demokrati/sammen-om-gentofte/borgermoeder-hoeringer-og-afgoerelser/",
+    "label": "Høringer - Gentofte Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "warning",
+    "is_new_defect": false,
+    "status_code": 403,
+    "final_url": "https://gentofte.dk/det-lokale-demokrati/sammen-om-gentofte/borgermoeder-hoeringer-og-afgoerelser/",
+    "response_time_s": 0.245,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 403,
+        "final_url": "https://gentofte.dk/det-lokale-demokrati/sammen-om-gentofte/borgermoeder-hoeringer-og-afgoerelser/",
+        "response_time_s": 0.245,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Gladsaxe": {
+    "url": "https://gladsaxe.dk/politik/hoeringsportalen?category=KP&area=&type=&sort=ASC",
+    "label": "Høringer - Gladsaxe Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "warning",
+    "is_new_defect": false,
+    "status_code": 403,
+    "final_url": "https://gladsaxe.dk/politik/hoeringsportalen?category=KP&area=&type=&sort=ASC",
+    "response_time_s": 1.198,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 403,
+        "final_url": "https://gladsaxe.dk/politik/hoeringsportalen?category=KP&area=&type=&sort=ASC",
+        "response_time_s": 1.198,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Glostrup": {
+    "url": "https://www.glostrup.dk/demokrati/hoeringer-og-afgoerelser",
+    "label": "Høringer - Glostrup Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://www.glostrup.dk/demokrati/hoeringer-og-afgoerelser",
+    "response_time_s": 0.461,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://www.glostrup.dk/demokrati/hoeringer-og-afgoerelser",
+        "response_time_s": 0.461,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Greve": {
+    "url": "https://greve.viewer.dkplan.niras.dk/plan/13#/23018",
+    "label": "Høringer - Greve Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://greve.viewer.dkplan.niras.dk/plan/13#/23018",
+    "response_time_s": 0.248,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://greve.viewer.dkplan.niras.dk/plan/13#/23018",
+        "response_time_s": 0.248,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Gribskov": {
+    "url": "https://gribskov.dk/hoeringer",
+    "label": "Høringer - Gribskov Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://gribskov.dk/hoeringer",
+    "response_time_s": 0.407,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://gribskov.dk/hoeringer",
+        "response_time_s": 0.407,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Guldborgsund": {
+    "url": "https://www.guldborgsund.dk/hoeringer?tag=c1baced53f5d4593ae28d779b9b40e5f",
+    "label": "Høringer - Guldborgsund Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://www.guldborgsund.dk/hoeringer?tag=c1baced53f5d4593ae28d779b9b40e5f",
+    "response_time_s": 0.235,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://www.guldborgsund.dk/hoeringer?tag=c1baced53f5d4593ae28d779b9b40e5f",
+        "response_time_s": 0.235,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Haderslev": {
+    "url": "https://www.haderslev.dk/demokrati/hoeringer-og-afgoerelser",
+    "label": "Høringer - Haderslev Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://www.haderslev.dk/demokrati/hoeringer-og-afgoerelser",
+    "response_time_s": 0.543,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://www.haderslev.dk/demokrati/hoeringer-og-afgoerelser",
+        "response_time_s": 0.543,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Halsnæs": {
+    "url": "https://halsnaes.dk/politik/hoeringer-afgoerelser-og-udbud",
+    "label": "Høringer - Halsnæs Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://halsnaes.dk/politik/hoeringer-afgoerelser-og-udbud",
+    "response_time_s": 0.839,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://halsnaes.dk/politik/hoeringer-afgoerelser-og-udbud",
+        "response_time_s": 0.839,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Hedensted": {
+    "url": "https://www.hedensted.dk/politik-og-indflydelse/hoeringer-og-indflydelse/hoeringer",
+    "label": "Høringer - Hedensted Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://www.hedensted.dk/politik-og-indflydelse/hoeringer-og-indflydelse/hoeringer",
+    "response_time_s": 0.329,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://www.hedensted.dk/politik-og-indflydelse/hoeringer-og-indflydelse/hoeringer",
+        "response_time_s": 0.329,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Helsingør": {
+    "url": "https://helsingor.viewer.dkplan.niras.dk/plan/2#/1211",
+    "label": "Høringer - Helsingør Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://helsingor.viewer.dkplan.niras.dk/plan/2#/1211",
+    "response_time_s": 0.196,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://helsingor.viewer.dkplan.niras.dk/plan/2#/1211",
+        "response_time_s": 0.196,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Herlev": {
+    "url": "https://herlev.viewer.dkplan.niras.dk/plan/2#/1206",
+    "label": "Høringer - Herlev Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://herlev.viewer.dkplan.niras.dk/plan/2#/1206",
+    "response_time_s": 0.291,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://herlev.viewer.dkplan.niras.dk/plan/2#/1206",
+        "response_time_s": 0.291,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Herning": {
+    "url": "https://www.herning.dk/politik/offentliggoerelser-og-hoeringer/lokalplaner-og-kommuneplantillaeg",
+    "label": "Høringer - Herning Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://www.herning.dk/politik/offentliggoerelser-og-hoeringer/lokalplaner-og-kommuneplantillaeg",
+    "response_time_s": 0.391,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://www.herning.dk/politik/offentliggoerelser-og-hoeringer/lokalplaner-og-kommuneplantillaeg",
+        "response_time_s": 0.391,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Hillerød": {
+    "url": "https://hillerod.viewer.dkplan.niras.dk/plan/8",
+    "label": "Høringer - Hillerød Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://hillerod.viewer.dkplan.niras.dk/plan/8",
+    "response_time_s": 0.188,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://hillerod.viewer.dkplan.niras.dk/plan/8",
+        "response_time_s": 0.188,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Hjørring": {
+    "url": "https://hjoerring.dk/demokrati/hoeringer-og-afgoerelser",
+    "label": "Høringer - Hjørring Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://hjoerring.dk/demokrati/hoeringer-og-afgoerelser",
+    "response_time_s": 0.28,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://hjoerring.dk/demokrati/hoeringer-og-afgoerelser",
+        "response_time_s": 0.28,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Holbæk": {
+    "url": "https://planer.holbaek.dk/annoncering/",
+    "label": "Høringer - Holbæk Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://planer.holbaek.dk/annoncering/",
+    "response_time_s": 2.333,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://planer.holbaek.dk/annoncering/",
+        "response_time_s": 2.333,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Holstebro": {
+    "url": "https://www.holstebro.dk/annonceringer",
+    "label": "Høringer - Holstebro Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://www.holstebro.dk/annonceringer",
+    "response_time_s": 0.546,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://www.holstebro.dk/annonceringer",
+        "response_time_s": 0.546,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Horsens": {
+    "url": "https://horsens.dk/politik/hoeringerfrateknikogmiljoe",
+    "label": "Høringer - Horsens Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://horsens.dk/politik/hoeringerfrateknikogmiljoe",
+    "response_time_s": 0.222,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://horsens.dk/politik/hoeringerfrateknikogmiljoe",
+        "response_time_s": 0.222,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Hvidovre": {
+    "url": "https://www.hvidovre.dk/politik/hoeringer-og-afgoerelser-hoeringsportalen",
+    "label": "Høringer - Hvidovre Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://www.hvidovre.dk/politik/hoeringer-og-afgoerelser-hoeringsportalen",
+    "response_time_s": 0.438,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://www.hvidovre.dk/politik/hoeringer-og-afgoerelser-hoeringsportalen",
+        "response_time_s": 0.438,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Høje-Taastrup": {
+    "url": "https://www.htk.dk/politik/hoeringer-og-afgoerelser/aktuelle-hoeringer-og-afgoerelser",
+    "label": "Høringer - Høje-Taastrup Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "warning",
+    "is_new_defect": false,
+    "status_code": 403,
+    "final_url": "https://www.htk.dk/politik/hoeringer-og-afgoerelser/aktuelle-hoeringer-og-afgoerelser",
+    "response_time_s": 1.161,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 403,
+        "final_url": "https://www.htk.dk/politik/hoeringer-og-afgoerelser/aktuelle-hoeringer-og-afgoerelser",
+        "response_time_s": 1.161,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Hørsholm": {
+    "url": "https://horsholm.viewer.dkplan.niras.dk/plan/1#/1291",
+    "label": "Høringer - Hørsholm Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://horsholm.viewer.dkplan.niras.dk/plan/1#/1291",
+    "response_time_s": 0.2,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://horsholm.viewer.dkplan.niras.dk/plan/1#/1291",
+        "response_time_s": 0.2,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Ikast-Brande": {
+    "url": "https://ikast-brande.dk/offentliggoerelser-og-hoeringer",
+    "label": "Høringer - Ikast-Brande Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://ikast-brande.dk/offentliggoerelser-og-hoeringer",
+    "response_time_s": 0.467,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://ikast-brande.dk/offentliggoerelser-og-hoeringer",
+        "response_time_s": 0.467,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Ishøj": {
+    "url": "https://ishoj.dk/borger/byplanlaegning/planer-i-horing/",
+    "label": "Høringer - Ishøj Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://ishoj.dk/borger/byplanlaegning/planer-i-horing/",
+    "response_time_s": 0.174,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://ishoj.dk/borger/byplanlaegning/planer-i-horing/",
+        "response_time_s": 0.174,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Jammerbugt": {
+    "url": "https://www.jammerbugt.dk/demokrati-og-indflydelse/horinger-og-afgorelser/oversigt/",
+    "label": "Høringer - Jammerbugt Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://www.jammerbugt.dk/demokrati-og-indflydelse/horinger-og-afgorelser/oversigt/",
+    "response_time_s": 0.463,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://www.jammerbugt.dk/demokrati-og-indflydelse/horinger-og-afgorelser/oversigt/",
+        "response_time_s": 0.463,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Kalundborg": {
+    "url": "https://www.kalundborg.dk/demokrati/hoeringer-og-afgoerelser",
+    "label": "Høringer - Kalundborg Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://www.kalundborg.dk/demokrati/hoeringer-og-afgoerelser",
+    "response_time_s": 0.614,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://www.kalundborg.dk/demokrati/hoeringer-og-afgoerelser",
+        "response_time_s": 0.614,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Kerteminde": {
+    "url": "https://kerteminde.viewer.dkplan.niras.dk/plan/6#/1700",
+    "label": "Høringer - Kerteminde Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://kerteminde.viewer.dkplan.niras.dk/plan/6#/1700",
+    "response_time_s": 0.255,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://kerteminde.viewer.dkplan.niras.dk/plan/6#/1700",
+        "response_time_s": 0.255,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Kolding": {
+    "url": "https://www.kolding.dk/borger/hoeringer-og-afgoerelser?category=KMLP&area=&type=&sort=ASC",
+    "label": "Høringer - Kolding Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "warning",
+    "is_new_defect": false,
+    "status_code": 403,
+    "final_url": "https://www.kolding.dk/borger/hoeringer-og-afgoerelser?category=KMLP&area=&type=&sort=ASC",
+    "response_time_s": 1.189,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 403,
+        "final_url": "https://www.kolding.dk/borger/hoeringer-og-afgoerelser?category=KMLP&area=&type=&sort=ASC",
+        "response_time_s": 1.189,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "København": {
+    "url": "https://blivhoert.kk.dk/",
+    "label": "Høringer - København Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://blivhoert.kk.dk/",
+    "response_time_s": 0.194,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://blivhoert.kk.dk/",
+        "response_time_s": 0.194,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Køge": {
+    "url": "https://www.koege.dk/politik/hoeringer-afgoerelser-og-borgermoeder/hoeringsportal?category=Kommune-+og+lokalplaner&area=&type=HOER&sort=ASC",
+    "label": "Høringer - Køge Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "warning",
+    "is_new_defect": false,
+    "status_code": 403,
+    "final_url": "https://www.koege.dk/politik/hoeringer-afgoerelser-og-borgermoeder/hoeringsportal?category=Kommune-+og+lokalplaner&area=&type=HOER&sort=ASC",
+    "response_time_s": 1.177,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 403,
+        "final_url": "https://www.koege.dk/politik/hoeringer-afgoerelser-og-borgermoeder/hoeringsportal?category=Kommune-+og+lokalplaner&area=&type=HOER&sort=ASC",
+        "response_time_s": 1.177,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Langeland": {
+    "url": "https://langelandkommune.dk/politik-og-indflydelse/hoeringsportalen?category=KOL&area=&type=&sort=ASC",
+    "label": "Høringer - Langeland Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "warning",
+    "is_new_defect": false,
+    "status_code": 403,
+    "final_url": "https://langelandkommune.dk/politik-og-indflydelse/hoeringsportalen?category=KOL&area=&type=&sort=ASC",
+    "response_time_s": 1.149,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 403,
+        "final_url": "https://langelandkommune.dk/politik-og-indflydelse/hoeringsportalen?category=KOL&area=&type=&sort=ASC",
+        "response_time_s": 1.149,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Lejre": {
+    "url": "https://lejre.viewer.dkplan.niras.dk/plan/1#/1624",
+    "label": "Høringer - Lejre Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://lejre.viewer.dkplan.niras.dk/plan/1#/1624",
+    "response_time_s": 0.221,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://lejre.viewer.dkplan.niras.dk/plan/1#/1624",
+        "response_time_s": 0.221,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Lemvig": {
+    "url": "https://lemvig.dk/politik-og-indflydelse/hoeringer-og-afgoerelser",
+    "label": "Høringer - Lemvig Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://lemvig.dk/politik-og-indflydelse/hoeringer-og-afgoerelser",
+    "response_time_s": 0.423,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://lemvig.dk/politik-og-indflydelse/hoeringer-og-afgoerelser",
+        "response_time_s": 0.423,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Lolland": {
+    "url": "https://lolland.viewer.dkplan.niras.dk/plan/11#/",
+    "label": "Høringer - Lolland Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://lolland.viewer.dkplan.niras.dk/plan/11#/",
+    "response_time_s": 0.182,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://lolland.viewer.dkplan.niras.dk/plan/11#/",
+        "response_time_s": 0.182,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Lyngby-Taarbæk": {
+    "url": "https://www.ltk.dk/borger/byplanlaegning/lokalplaner/lokalplan-hoeringssvar",
+    "label": "Høringer - Lyngby-Taarbæk Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://www.ltk.dk/borger/byplanlaegning/lokalplaner/lokalplan-hoeringssvar",
+    "response_time_s": 0.201,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://www.ltk.dk/borger/byplanlaegning/lokalplaner/lokalplan-hoeringssvar",
+        "response_time_s": 0.201,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Læsø": {
+    "url": "https://www.laesoe.dk/borger/planlaegning-bolig-og-byggeri/planlaegning",
+    "label": "Høringer - Læsø Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "warning",
+    "is_new_defect": false,
+    "status_code": 403,
+    "final_url": "https://www.laesoe.dk/borger/planlaegning-bolig-og-byggeri/planlaegning",
+    "response_time_s": 1.488,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 403,
+        "final_url": "https://www.laesoe.dk/borger/planlaegning-bolig-og-byggeri/planlaegning",
+        "response_time_s": 1.488,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Mariagerfjord": {
+    "url": "https://www.mariagerfjord.dk/demokrati/indflydelse/annoncer-og-hoeringer",
+    "label": "Høringer - Mariagerfjord Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://www.mariagerfjord.dk/demokrati/indflydelse/annoncer-og-hoeringer",
+    "response_time_s": 0.173,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://www.mariagerfjord.dk/demokrati/indflydelse/annoncer-og-hoeringer",
+        "response_time_s": 0.173,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Middelfart": {
+    "url": "https://middelfart.dk/hoeringer",
+    "label": "Høringer - Middelfart Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://middelfart.dk/hoeringer",
+    "response_time_s": 0.434,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://middelfart.dk/hoeringer",
+        "response_time_s": 0.434,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Morsø": {
+    "url": "https://morsoe.viewer.dkplan.niras.dk/plan/20#/5307",
+    "label": "Høringer - Morsø Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://morsoe.viewer.dkplan.niras.dk/plan/20#/5307",
+    "response_time_s": 0.117,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://morsoe.viewer.dkplan.niras.dk/plan/20#/5307",
+        "response_time_s": 0.117,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Norddjurs": {
+    "url": "https://norddjurs.dk/politik-og-indflydelse/aktuelle-offentliggoerelser-og-hoeringer/hoeringer-af-lokalplaner-og-kommuneplantillaeg",
+    "label": "Høringer - Norddjurs Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://norddjurs.dk/politik-og-indflydelse/aktuelle-offentliggoerelser-og-hoeringer/hoeringer-af-lokalplaner-og-kommuneplantillaeg",
+    "response_time_s": 0.306,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://norddjurs.dk/politik-og-indflydelse/aktuelle-offentliggoerelser-og-hoeringer/hoeringer-af-lokalplaner-og-kommuneplantillaeg",
+        "response_time_s": 0.306,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Nordfyns": {
+    "url": "https://www.nordfynskommune.dk/hoeringer-og-afgoerelser/",
+    "label": "Høringer - Nordfyns Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://www.nordfynskommune.dk/hoeringer-og-afgoerelser/",
+    "response_time_s": 0.582,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://www.nordfynskommune.dk/hoeringer-og-afgoerelser/",
+        "response_time_s": 0.582,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Nyborg": {
+    "url": "https://www.nyborg.dk/da/demokrati-og-indflydelse/faa-indflydelse/hoeringer-og-afgoerelser/",
+    "label": "Høringer - Nyborg Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://www.nyborg.dk/da/demokrati-og-indflydelse/faa-indflydelse/hoeringer-og-afgoerelser/",
+    "response_time_s": 0.344,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://www.nyborg.dk/da/demokrati-og-indflydelse/faa-indflydelse/hoeringer-og-afgoerelser/",
+        "response_time_s": 0.344,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Næstved": {
+    "url": "https://www.naestved.dk/hoeringer?tag=10c8e8ca0eb141bd985d45d32c21b3e7",
+    "label": "Høringer - Næstved Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://www.naestved.dk/hoeringer?tag=10c8e8ca0eb141bd985d45d32c21b3e7",
+    "response_time_s": 0.206,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://www.naestved.dk/hoeringer?tag=10c8e8ca0eb141bd985d45d32c21b3e7",
+        "response_time_s": 0.206,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Odder": {
+    "url": "https://odder.dk/borger/teknik-and-miljoe/hoeringer-and-afgoerelser",
+    "label": "Høringer - Odder Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://odder.dk/borger/teknik-and-miljoe/hoeringer-and-afgoerelser",
+    "response_time_s": 0.455,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://odder.dk/borger/teknik-and-miljoe/hoeringer-and-afgoerelser",
+        "response_time_s": 0.455,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Odense": {
+    "url": "https://odense.viewer.dkplan.niras.dk/plan/22#/9954",
+    "label": "Høringer - Odense Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://odense.viewer.dkplan.niras.dk/plan/22#/9954",
+    "response_time_s": 0.137,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://odense.viewer.dkplan.niras.dk/plan/22#/9954",
+        "response_time_s": 0.137,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Odsherred": {
+    "url": "https://odsherred.dkplan.dk/plan/1#/1986",
+    "label": "Høringer - Odsherred Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://odsherred.dkplan.dk/plan/1#/1986",
+    "response_time_s": 0.137,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://odsherred.dkplan.dk/plan/1#/1986",
+        "response_time_s": 0.137,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Randers": {
+    "url": "https://www.randers.dk/demokrati/hoeringer-og-afgoerelser/",
+    "label": "Høringer - Randers Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://www.randers.dk/demokrati/hoeringer-og-afgoerelser/",
+    "response_time_s": 2.183,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://www.randers.dk/demokrati/hoeringer-og-afgoerelser/",
+        "response_time_s": 2.183,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Rebild": {
+    "url": "https://rebild.dk/demokrati/hoeringer-og-afgoerelser",
+    "label": "Høringer - Rebild Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://rebild.dk/demokrati/hoeringer-og-afgoerelser",
+    "response_time_s": 0.139,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://rebild.dk/demokrati/hoeringer-og-afgoerelser",
+        "response_time_s": 0.139,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Ringkøbing-Skjern": {
+    "url": "https://www.rksk.dk/om-kommunen/annoncering/kommuneplan-lokalplaner-og-varmeplaner",
+    "label": "Høringer - Ringkøbing-Skjern Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://www.rksk.dk/om-kommunen/annoncering/kommuneplan-lokalplaner-og-varmeplaner",
+    "response_time_s": 0.126,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://www.rksk.dk/om-kommunen/annoncering/kommuneplan-lokalplaner-og-varmeplaner",
+        "response_time_s": 0.126,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Ringsted": {
+    "url": "https://ringsted.dk/da/kommunen/dialog-indflydelse/hoeringer-afgoerelser-og-borgermoeder",
+    "label": "Høringer - Ringsted Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://ringsted.dk/da/kommunen/dialog-indflydelse/hoeringer-afgoerelser-og-borgermoeder",
+    "response_time_s": 0.475,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://ringsted.dk/da/kommunen/dialog-indflydelse/hoeringer-afgoerelser-og-borgermoeder",
+        "response_time_s": 0.475,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Roskilde": {
+    "url": "https://www.roskilde.dk/da-dk/demokrati-og-indflydelse/fa-indflydelse/horinger-borgermoder-og-afgorelser/?topics=be5affbc-d3f0-4047-036d-ef63d181976c",
+    "label": "Høringer - Roskilde Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://www.roskilde.dk/da-dk/demokrati-og-indflydelse/fa-indflydelse/horinger-borgermoder-og-afgorelser/?topics=be5affbc-d3f0-4047-036d-ef63d181976c",
+    "response_time_s": 0.818,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://www.roskilde.dk/da-dk/demokrati-og-indflydelse/fa-indflydelse/horinger-borgermoder-og-afgorelser/?topics=be5affbc-d3f0-4047-036d-ef63d181976c",
+        "response_time_s": 0.818,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Rudersdal": {
+    "url": "https://rudersdal.dk/politik-og-indflydelse/borgerdialog-og-hoeringer/hoeringer",
+    "label": "Høringer - Rudersdal Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://rudersdal.dk/politik-og-indflydelse/borgerdialog-og-hoeringer/hoeringer",
+    "response_time_s": 0.548,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://rudersdal.dk/politik-og-indflydelse/borgerdialog-og-hoeringer/hoeringer",
+        "response_time_s": 0.548,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Rødovre": {
+    "url": "https://www.rk.dk/politik/hoeringer/",
+    "label": "Høringer - Rødovre Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "defect",
+    "is_new_defect": true,
+    "status_code": 404,
+    "final_url": "https://www.rk.dk/politik/hoeringer/",
+    "response_time_s": 0.118,
+    "error": null,
+    "attempts_made": 4,
+    "attempt_log": [
+      {
+        "status_code": 404,
+        "final_url": "https://www.rk.dk/politik/hoeringer/",
+        "response_time_s": 0.168,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      },
+      {
+        "status_code": 404,
+        "final_url": "https://www.rk.dk/politik/hoeringer/",
+        "response_time_s": 0.095,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 2
+      },
+      {
+        "status_code": 404,
+        "final_url": "https://www.rk.dk/politik/hoeringer/",
+        "response_time_s": 0.098,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 3
+      },
+      {
+        "status_code": 404,
+        "final_url": "https://www.rk.dk/politik/hoeringer/",
+        "response_time_s": 0.118,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 4
+      }
+    ]
+  },
+  "Samsø": {
+    "url": "https://www.samsoe.dk/erhverv/hoeringer-og-tilladelser/aktuelle-hoeringer?fbActive=1",
+    "label": "Høringer - Samsø Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "warning",
+    "is_new_defect": false,
+    "status_code": 403,
+    "final_url": "https://www.samsoe.dk/erhverv/hoeringer-og-tilladelser/aktuelle-hoeringer?fbActive=1",
+    "response_time_s": 1.163,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 403,
+        "final_url": "https://www.samsoe.dk/erhverv/hoeringer-og-tilladelser/aktuelle-hoeringer?fbActive=1",
+        "response_time_s": 1.163,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Silkeborg": {
+    "url": "https://silkeborglokalplaner.viewer.dkplan.niras.dk/plan/1#/35488",
+    "label": "Høringer - Silkeborg Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://silkeborglokalplaner.viewer.dkplan.niras.dk/plan/1#/35488",
+    "response_time_s": 0.17,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://silkeborglokalplaner.viewer.dkplan.niras.dk/plan/1#/35488",
+        "response_time_s": 0.17,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Skanderborg": {
+    "url": "https://www.skanderborg.dk/aktuelle-hoeringer-og-afgoerelser",
+    "label": "Høringer - Skanderborg Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://www.skanderborg.dk/aktuelle-hoeringer-og-afgoerelser",
+    "response_time_s": 1.046,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://www.skanderborg.dk/aktuelle-hoeringer-og-afgoerelser",
+        "response_time_s": 1.046,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Skive": {
+    "url": "https://skive.dk/demokrati-og-kommune/annoncering-hoering-og-aktindsigt/aktuelle-hoeringer-og-afgoerelser/",
+    "label": "Høringer - Skive Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://skive.dk/demokrati-og-kommune/annoncering-hoering-og-aktindsigt/aktuelle-hoeringer-og-afgoerelser/",
+    "response_time_s": 0.161,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://skive.dk/demokrati-og-kommune/annoncering-hoering-og-aktindsigt/aktuelle-hoeringer-og-afgoerelser/",
+        "response_time_s": 0.161,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Slagelse": {
+    "url": "https://www.slagelse.dk/da/demokrati-og-udvikling/faa-indflydelse/hoeringer/",
+    "label": "Høringer - Slagelse Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://www.slagelse.dk/da/demokrati-og-udvikling/faa-indflydelse/hoeringer/",
+    "response_time_s": 0.388,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://www.slagelse.dk/da/demokrati-og-udvikling/faa-indflydelse/hoeringer/",
+        "response_time_s": 0.388,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Solrød": {
+    "url": "https://solrod.dk/aktuelt/hoeringer-og-afgoerelser",
+    "label": "Høringer - Solrød Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://solrod.dk/aktuelt/hoeringer-og-afgoerelser",
+    "response_time_s": 0.599,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://solrod.dk/aktuelt/hoeringer-og-afgoerelser",
+        "response_time_s": 0.599,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Sorø": {
+    "url": "https://soroe.dk/politik-og-indflydelse/hoeringer-og-afgoerelser/lokalplaner/forhoeringer-og-lokalplanforslag-i-hoering",
+    "label": "Høringer - Sorø Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://soroe.dk/politik-og-indflydelse/hoeringer-og-afgoerelser/lokalplaner/forhoeringer-og-lokalplanforslag-i-hoering",
+    "response_time_s": 0.196,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://soroe.dk/politik-og-indflydelse/hoeringer-og-afgoerelser/lokalplaner/forhoeringer-og-lokalplanforslag-i-hoering",
+        "response_time_s": 0.196,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Stevns": {
+    "url": "https://stevns.viewer.dkplan.niras.dk/plan/27#/1442",
+    "label": "Høringer - Stevns Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://stevns.viewer.dkplan.niras.dk/plan/27#/1442",
+    "response_time_s": 0.145,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://stevns.viewer.dkplan.niras.dk/plan/27#/1442",
+        "response_time_s": 0.145,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Struer": {
+    "url": "https://www.struer.dk/om-kommunen/hoeringer-afgoerelser-og-offentliggoerelser",
+    "label": "Høringer - Struer Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://www.struer.dk/om-kommunen/hoeringer-afgoerelser-og-offentliggoerelser",
+    "response_time_s": 0.807,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://www.struer.dk/om-kommunen/hoeringer-afgoerelser-og-offentliggoerelser",
+        "response_time_s": 0.807,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Svendborg": {
+    "url": "https://www.svendborg.dk/hoeringer-og-afgoerelser/",
+    "label": "Høringer - Svendborg Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://www.svendborg.dk/hoeringer-og-afgoerelser/",
+    "response_time_s": 0.411,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://www.svendborg.dk/hoeringer-og-afgoerelser/",
+        "response_time_s": 0.411,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Syddjurs": {
+    "url": "https://www.syddjurs.dk/politik/hoeringer-og-afgoerelser",
+    "label": "Høringer - Syddjurs Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://2025.syddjurs.dk/da/hoeringer-og-afgoerelser/",
+    "response_time_s": 0.746,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://2025.syddjurs.dk/da/hoeringer-og-afgoerelser/",
+        "response_time_s": 0.746,
+        "redirect_count": 3,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Sønderborg": {
+    "url": "https://lokalplaner.sonderborg.dk/",
+    "label": "Høringer - Sønderborg Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://lokalplaner.sonderborg.dk/",
+    "response_time_s": 0.154,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://lokalplaner.sonderborg.dk/",
+        "response_time_s": 0.154,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Thisted": {
+    "url": "https://www.thisted.dk/politik-demokrati-and-indflydelse/hoeringer-og-offentliggoerelser",
+    "label": "Høringer - Thisted Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://www.thisted.dk/politik-demokrati-and-indflydelse/hoeringer-og-offentliggoerelser",
+    "response_time_s": 0.552,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://www.thisted.dk/politik-demokrati-and-indflydelse/hoeringer-og-offentliggoerelser",
+        "response_time_s": 0.552,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Tårnby": {
+    "url": "https://www.taarnby.dk/politik/horinger-og-aktindsigt/horinger-og-afgorelser/",
+    "label": "Høringer - Tårnby Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://www.taarnby.dk/politik/horinger-og-aktindsigt/horinger-og-afgorelser/",
+    "response_time_s": 0.103,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://www.taarnby.dk/politik/horinger-og-aktindsigt/horinger-og-afgorelser/",
+        "response_time_s": 0.103,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Tønder": {
+    "url": "https://www.toender.dk/demokrati-og-indflydelse/indflydelse-og-debat/hoeringer-og-afgoerelser/",
+    "label": "Høringer - Tønder Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "warning",
+    "is_new_defect": false,
+    "status_code": 403,
+    "final_url": "https://www.toender.dk/demokrati-og-indflydelse/indflydelse-og-debat/hoeringer-og-afgoerelser/",
+    "response_time_s": 0.209,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 403,
+        "final_url": "https://www.toender.dk/demokrati-og-indflydelse/indflydelse-og-debat/hoeringer-og-afgoerelser/",
+        "response_time_s": 0.209,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Vallensbæk": {
+    "url": "https://www.vallensbaek.dk/politik/foelg-med/hoeringer-tilladelser-og-afgoerelser",
+    "label": "Høringer - Vallensbæk Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://www.vallensbaek.dk/politik/foelg-med/hoeringer-tilladelser-og-afgoerelser",
+    "response_time_s": 0.767,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://www.vallensbaek.dk/politik/foelg-med/hoeringer-tilladelser-og-afgoerelser",
+        "response_time_s": 0.767,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Varde": {
+    "url": "https://vardekommune.dk/horinger-og-afgorelser/",
+    "label": "Høringer - Varde Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://vardekommune.dk/horinger-og-afgorelser/",
+    "response_time_s": 0.148,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://vardekommune.dk/horinger-og-afgorelser/",
+        "response_time_s": 0.148,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Vejen": {
+    "url": "https://vejen.dk/politik/hoeringer-og-afgoerelser?fbActive=1",
+    "label": "Høringer - Vejen Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "warning",
+    "is_new_defect": false,
+    "status_code": 403,
+    "final_url": "https://vejen.dk/politik/hoeringer-og-afgoerelser?fbActive=1",
+    "response_time_s": 1.153,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 403,
+        "final_url": "https://vejen.dk/politik/hoeringer-og-afgoerelser?fbActive=1",
+        "response_time_s": 1.153,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Vejle": {
+    "url": "https://www.vejle.dk/da/hoeringer-og-afgoerelser/",
+    "label": "Høringer - Vejle Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://www.vejle.dk/da/hoeringer-og-afgoerelser/",
+    "response_time_s": 0.583,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://www.vejle.dk/da/hoeringer-og-afgoerelser/",
+        "response_time_s": 0.583,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Vesthimmerlands": {
+    "url": "https://vesthimmerland.viewer.dkplan.niras.dk/plan/2#/1130",
+    "label": "Høringer - Vesthimmerlands Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://vesthimmerland.viewer.dkplan.niras.dk/plan/2#/1130",
+    "response_time_s": 0.128,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://vesthimmerland.viewer.dkplan.niras.dk/plan/2#/1130",
+        "response_time_s": 0.128,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Viborg": {
+    "url": "https://viborg.dk/demokrati-og-indflydelse/indflydelse-og-debat/hoeringer-og-afgoerelser/",
+    "label": "Høringer - Viborg Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://viborg.dk/demokrati-og-indflydelse/indflydelse-og-debat/hoeringer-og-afgoerelser/",
+    "response_time_s": 0.442,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://viborg.dk/demokrati-og-indflydelse/indflydelse-og-debat/hoeringer-og-afgoerelser/",
+        "response_time_s": 0.442,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Vordingborg": {
+    "url": "https://www.vordingborg.dk/borger/bolig-og-byggeri/lokalplaner",
+    "label": "Høringer - Vordingborg Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "ok",
+    "is_new_defect": false,
+    "status_code": 200,
+    "final_url": "https://www.vordingborg.dk/borger/bolig-og-byggeri/lokalplaner",
+    "response_time_s": 0.102,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 200,
+        "final_url": "https://www.vordingborg.dk/borger/bolig-og-byggeri/lokalplaner",
+        "response_time_s": 0.102,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  },
+  "Ærø": {
+    "url": "https://www.aeroekommune.dk/politik-og-indflydelse/hoeringsportal",
+    "label": "Høringer - Ærø Kommune",
+    "timestamp": "2026-08-12T09:08:40+00:00",
+    "final_status": "warning",
+    "is_new_defect": false,
+    "status_code": 403,
+    "final_url": "https://www.aeroekommune.dk/politik-og-indflydelse/hoeringsportal",
+    "response_time_s": 1.327,
+    "error": null,
+    "attempts_made": 1,
+    "attempt_log": [
+      {
+        "status_code": 403,
+        "final_url": "https://www.aeroekommune.dk/politik-og-indflydelse/hoeringsportal",
+        "response_time_s": 1.327,
+        "redirect_count": 0,
+        "error": null,
+        "attempt": 1
+      }
+    ]
+  }
+}
